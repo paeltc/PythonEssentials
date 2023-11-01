@@ -1,0 +1,3 @@
+Entrez le message que vous voulez enregistrer !
+Vive le Python 3
+Denis Reant
